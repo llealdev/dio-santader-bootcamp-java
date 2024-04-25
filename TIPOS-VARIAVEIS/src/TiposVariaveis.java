@@ -1,5 +1,5 @@
 
-public class TiposVatiaveis {
+public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
         
         final double VALOR_SALARIO = 1450.00;
